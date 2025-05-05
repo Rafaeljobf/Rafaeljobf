@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently working with Typescript and NextJS<br></p>
+<p align="left">🌱 I'm currently working with Python<br></p>
 
 ###
 
