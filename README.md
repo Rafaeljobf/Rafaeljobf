@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently working with Python and C<br></p>
+<p align="left">🌱 I'm currently studying and working with Python and C<br></p>
 
 ###
 
