@@ -1,16 +1,34 @@
-## Hi there 👋
+  
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**Rafaeljobf/Rafaeljobf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Rafael and I'm a Computer Science student, from Fortaleza-CE.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafaeljobf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&cache_seconds=86400&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Rafaeljobf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&cache_seconds=86400&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🌱 I'm currently working with Typescript and NextJS<br></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+  [![My Skills](https://skillicons.dev/icons?i=python,git)](https://skillicons.dev)
+
+###
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Oliveira-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/rafael-oliveira-74a2b9362/)](https://www.linkedin.com/in/rafael-oliveira-74a2b9362/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafaf1604@gmail.com-00875f?style=flat-square&logo=Gmail&color=blue&logoColor=white&link=mailto:rafaf1604@gmail.com)](mailto:rafaf1604@gmail.com)
