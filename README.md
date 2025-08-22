@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently studying and working with Python and C<br></p>
+<p align="left">🌱 I'm currently studying and working with Python, Power BI and SQL<br></p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=python,git,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,git,mysql)](https://skillicons.dev)
 
 ###
 
