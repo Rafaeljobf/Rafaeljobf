@@ -1,7 +1,4 @@
-  
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
+  ###
 
 <p align="left">My name is Rafael and I'm a Computer Science student, from Fortaleza-CE.</p>
 
@@ -18,7 +15,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently studying and working with Java, Python, Power BI and SQL<br></p>
+<p align="left">🌱 I'm currently studying and working with Java, Python and SQL<br></p>
 
 ###
 
@@ -26,7 +23,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=python,java,git,mysql,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,spring,git,mysql)](https://skillicons.dev)
 
 ###
 
