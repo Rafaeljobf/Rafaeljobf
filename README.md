@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently studying and working with Java, Python and SQL<br></p>
+<p align="left">🌱 I'm currently studying and working with Java, Spring, Python and SQL<br></p>
 
 ###
 
