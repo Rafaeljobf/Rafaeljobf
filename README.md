@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently studying and working with Java, Spring, Python and SQL<br></p>
+<p align="left">🌱 I'm currently studying and working with Java, Spring, Typescript, React<br></p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=python,java,spring,git,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,java,spring,git,mysql)](https://skillicons.dev)
 
 ###
 
